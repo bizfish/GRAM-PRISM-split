@@ -1,11 +1,5 @@
 # GRAM PRI$M - SPLIT PARTS
 
-
-
-https://github.com/bizfish/GRAM-PRISM-split/assets/41658201/92aaf93a-d8eb-4b72-917e-0eab4aec8c60
-
-
-
 # Introduction 
 The **PRI$M** is a modular take on the Prism, originally designed by WunWae. It has the standard pinout for firmwares like HayBox and Pico-Rectangle, and is also compatible with more fleshed-out FGC firmwares like GP2040-CE. The key distinctive features between the original Prism and the PRI$M is the USB-C connectivity, and the modular panels that can be replaced and swapped to change the hand layouts without purchasing a whole new controller. With industrial design from GRAM, PCB designed by Quark.Works, this guide goes over a DIY-friendly approach to building and modifying the PRI$M to suit your needs.
 
